@@ -1,0 +1,3 @@
+[submodule "whipper"]
+	path = whipper
+	url = https://github.com/JoeLametta/whipper
